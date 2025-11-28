@@ -6,7 +6,7 @@ Ferramenta para detectar quais portas podem ser acessadas quando o Nmap utiliza 
 
 1. Baixe o script:
    
-   wget https://github.com/yNekas/nmap-bypass-tool/bypass_scan.sh
+   wget https://github.com/yNekas/nmap-bypass-tool-desec/blob/main/bypass_scan.sh
 
 3. Dê permissão:
 
